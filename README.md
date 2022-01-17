@@ -1,8 +1,8 @@
 # SRE by day, Hacker by night. It's kind of my super power!
 Stereotypical script kiddie, Spend too much time playing Minecraft, Web3 hopist.
 
-But fundamentally, I enjoy solving problems. My whole existence has been spent asking "How?"
-Admittedly I rarely care about the "Why?" Often I struggle with how different others motives or values are from my own.
+But fundamentally, I enjoy solving problems. My whole existence has been spent asking "How?".
+Admittedly I rarely care about the "Why?". Often I struggle with how different others motives or values are from my own.
 Figuring out the mechanism of how something works (or doesn't!) is far more interesting me to me anyway! 
 
 I strive to be able to have an understanding of our technology that allows me to completely break down, or build up, anything I want!
