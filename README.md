@@ -1,7 +1,7 @@
 # SRE by day, Hacker by night. It's kind of my super power!
 [Script kiddie with ethics](https://raw.githubusercontent.com/Pavocracy/Pavocracy/main/The%20Hacker's%20Ethics.md), [Spend too much time playing Minecraft](https://raw.githubusercontent.com/Pavocracy/Pavocracy/main/skyfactory_farm.png), [Web3 hopist](https://raw.githubusercontent.com/Pavocracy/Pavocracy/main/A%20Cypherpunk's%20Manifesto.md), [Constantly battling societies trade-offs](https://raw.githubusercontent.com/Pavocracy/Pavocracy/main/political-compass.jpeg).
 
-Fundamentally, I enjoy solving problems. My whole existence has been spent asking "How?".
+But fundamentally, I enjoy solving problems. My whole existence has been spent asking "How?".
 Admittedly I rarely care about the "Why?". Motives aren't important, I want to figure out the mechanism of how something works (or doesn't)! 
 
 I strive to understand our technology, so that I may break down or build up anything I want!
